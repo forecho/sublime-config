@@ -1,0 +1,38 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CakePHP (tmbundle)",
+		"CoffeeCompile",
+		"CoffeeScriptHaml",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"FileHeader",
+		"Git",
+		"GoSublime",
+		"HTML5",
+		"JavaScript Console",
+		"Jedi - Python autocompletion",
+		"jQuery",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"Rails Partial",
+		"SublimeCakePHP",
+		"SyncedSideBar",
+		"TrailingSpaces",
+		"Yii Framework Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/openam/SublimeCakePHP"
+	]
+}

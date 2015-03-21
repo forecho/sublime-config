@@ -1,0 +1,25 @@
+{
+	"cmd":
+	[
+		"open",
+		"-a",
+		"Google Chrome",
+		"/Applications/Google/Chrome.app"
+	],
+	"draw_white_space": "all",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Jedi - Python autocompletion",
+		"Vintage",
+		"GoSublime",
+		"Markdown Preview"
+	],
+	"rulers":
+	[
+		80
+	],
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": false
+}
